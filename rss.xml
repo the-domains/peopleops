@@ -4,7 +4,7 @@
         <description><![CDATA[People(Ops)]]></description>
         <link>https://thegrid.ai/peopleops/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 22:48:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 22:50:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/peopleops/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Home]]></title>
@@ -26,13 +26,6 @@
             <link>https://medium.com/@jonahmanning/5-ways-to-shake-off-a-false-start-to-your-new-year-plan-df45eb66bb70#.ikd5vts2r</link>
             <guid isPermaLink="false">d8a82be8-9657-40f4-9ef9-40265c86250f</guid>
             <pubDate>Tue, 05 Jan 2016 22:41:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Our Story]]></title>
-            <description><![CDATA[<article><h1>Our Story</h1><p>Our Story? </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7581351c097393fa0e5ac1f2d2e4b6211876acc9.jpg"></article>]]></description>
-            <link>https://thegrid.ai/peopleops/our-story/index.html</link>
-            <guid isPermaLink="false">e1decec4-d5f6-4af5-acba-a5f0823ad7d9</guid>
-            <pubDate>Tue, 05 Jan 2016 16:40:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
