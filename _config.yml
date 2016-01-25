@@ -1,7 +1,7 @@
 name: PeopleOps
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.06524571822956204
+layout_spectrum: 0.51669
+typography_spectrum: 0.7571
 title: People(Ops)
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.23291641008108854
-  lightness: 0.985478462651372
-  saturation: 0.6246332805603743
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.9291714385617524
 purpose: []
